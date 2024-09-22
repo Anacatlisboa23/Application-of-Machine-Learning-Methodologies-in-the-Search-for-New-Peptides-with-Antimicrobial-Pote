@@ -1,15 +1,17 @@
-# Tese
+# Dissertation
 
 *Overleaf:* https://www.overleaf.com/read/mqzjbdxvvjcn#6a12a5
 
-Composição do repositório:
+Repository composition:
 
-*_Dataset_Cleaning:_ Notebook com a script para a preparação dos datasets com informação relevante;
+*_Dataset_Cleaning:_ Notebook with the script for preparing datasets with relevant information;
 
-*_Dataset_Construction:_ Notebook onde os datasets foram criados, organizados e agrupados por função e organismos;
+*_Dataset_Construction:_ Notebook where the datasets were created, organised and grouped by function and organisms;
 
-*_Features:_ Notebook com a extração de features;
+*_Features:_ Notebook with the extraction of features;
 
-*_Model Training:_ Notebook com a criação de embeddings e os modelos de machinne learning usados para classificação binária;
+*Model Training:_ Notebook with the creation of embeddings and the machine learning models used for binary classification;
 
-*_Multiclass:_ Notebook com modelos de machinne learning usados para multiclassificação.
+*_Multiclass:_ Notebook with machine learning models used for multiclassification.
+
+Translated with DeepL.com (free version)
