@@ -35,7 +35,9 @@ Repository composition:
 
 *_MIC_values_prediction:_* Notebook with the training and test of the machine learning and deep learning models used for MIC prediction.
 
+*_Datasets:_* https://drive.google.com/drive/folders/1KVdVWuEae7vEVNM9MuYF8kFC9DPKZwrY?usp=drive_link
 
+*_Datasets that were used from articles:_* https://www.nature.com/articles/s41467-023-36994-z and https://academic.oup.com/bib/article/24/4/bbad240/7208684
 
 
 
