@@ -10,14 +10,32 @@ With this in mind, this project aims to create datasets, employ classical Machin
 Repository composition:
 
 *_Criation_MIC_Dataset.ipynb_*:  Notebook with the script for the criation of the dataset with MIC (Minimum Inhibitory Concentration) peptide values;
+
+
 *_Dataset_cleaning.ipynb_*: Notebook with the script for preparing datasets with relevant information;
-*_Dataset_creation.ipynb_*: Notebook with the creation of the initial datasets (antibiofilm, anti-viral, anti-bacterian, anti-gram-positive, anti-gram-negative)
+
+
+*_Dataset_creation.ipynb_*: Notebook with the creation of the initial datasets (antibiofilm, anti-viral, anti-bacterian, anti-gram-positive, anti-gram-negative);
+
+
 *_ESKAPE.ipynb_*: Processes a dataset related to ESKAPE pathogens;
+
+
 *_Features:_* Notebook with the extraction of features;
+
+
 *_ESM:_* Notebook with the ESM-1b encoding application;
+
+
 *_ProtBert:_*Notebook with the ProtBert encoding application;
+
+
 *Binary Classification:_* Notebook with the training and test of the machine learning and deep learning models used for binary classification;
+
+
 *_MIC_values_prediction:_* Notebook with the training and test of the machine learning and deep learning models used for MIC prediction.
+
+
 
 
 
