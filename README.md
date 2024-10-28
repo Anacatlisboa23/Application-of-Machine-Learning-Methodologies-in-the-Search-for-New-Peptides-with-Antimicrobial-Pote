@@ -1,5 +1,7 @@
 # Master Dissertation
 
+Ana Lisboa PG49831
+
 Antibiotic resistance is considered a global risk, so it is crucial to explore alternatives to conventional antibiotics. Antimicrobial peptides (AMP) have emerged as a promising alternative to conventional antibiotics. The experimental identification of promising new antibiotics and their susceptibility parameters
 can be time-consuming and expensive. In contrast, the use of algorithmic approaches to antibiotic discovery
 has the potential to significantly influence the development of innovative antibacterial compounds in a short space of time.
