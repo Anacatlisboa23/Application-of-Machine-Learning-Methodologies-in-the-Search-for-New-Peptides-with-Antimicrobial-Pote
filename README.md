@@ -41,7 +41,3 @@ Repository composition:
 
 *_Datasets that were used from articles:_* https://www.nature.com/articles/s41467-023-36994-z and https://academic.oup.com/bib/article/24/4/bbad240/7208684
 
-
-
-
-*Overleaf:* https://www.overleaf.com/read/mqzjbdxvvjcn#6a12a5
